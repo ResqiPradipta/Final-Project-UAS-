@@ -1,4 +1,13 @@
- **Dokumentasi Proyek Aplikasi SIMAJA (Sistem Manajemen Inventaris dan Perawatan Aset)**.
+**Mata Kuliah : Pemrograman Web**
+
+## Link YT : https://youtu.be/Mc6FZgixt4c 
+## Link website : https://simaja.site/ 
+
+login website
+username : adminresqi
+password : resqi123
+
+**Dokumentasi Proyek Aplikasi SIMAJA (Sistem Manajemen Inventaris dan Perawatan Aset)**.
 
 ---
 
