@@ -3,9 +3,6 @@
 ## Link YT : https://youtu.be/Mc6FZgixt4c 
 ## Link website : https://simaja.site/ 
 
-login website
-username : adminresqi
-password : resqi123
 
 **Dokumentasi Proyek Aplikasi SIMAJA (Sistem Manajemen Inventaris dan Perawatan Aset)**.
 
@@ -96,8 +93,8 @@ password : resqi123
 * Gunakan username dan password sesuai data di tabel `users`
 * Contoh:
 
-  * Username: `admin`
-  * Password: `admin123` (tergantung data hash)
+  * Username: 'adminresqi'
+  * Password: 'resqi123'
 
 #### 2. 🧭 **Navigasi Menu**
 
